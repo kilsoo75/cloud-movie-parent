@@ -1,0 +1,6 @@
+[submodule "cloud-movie-demo"]
+	path = cloud-movie-demo
+	url = https://github.com/kilsoo75/cloud-movie-demo.git
+[submodule "cloud-api-demo-app"]
+	path = cloud-api-demo-app
+	url = https://github.com/kilsoo75/cloud-api-demo-app.git
